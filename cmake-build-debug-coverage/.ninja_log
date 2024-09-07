@@ -1,0 +1,12 @@
+# ninja log v5
+1	32	1725708667698992739	LinkedList_Lib/CMakeFiles/LinkedList_Lib.dir/Node.cpp.o	882e36f3c5b0b9a4
+0	36	1725708667703093924	LinkedList_Lib/CMakeFiles/LinkedList_Lib.dir/List.cpp.o	b0223219d53c59de
+36	71	1725708667740199000	LinkedList_Lib/libLinkedList_Lib.a	4d56f1a09fcfebb8
+1	517	1725708668181530101	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	cc4e8cdbd55ab9fc
+1	561	1725708668225757580	Google_tests/CMakeFiles/Google_Tests_run.dir/LinkedListTests.cpp.o	4e1d672c6b11de8d
+1	2055	1725708669708030559	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a915c6eacaf1b05b
+2056	2126	1725708669795160000	lib/libgtest.a	fb08f6000fc0f8dd
+2129	2144	1725708669813366000	lib/libgtest_main.a	9da1288bb4b0f79f
+2144	2185	1725708669852630476	Google_tests/Google_Tests_run	a97a33a3ba7c8c04
+6	660	1725708721945445520	Google_tests/CMakeFiles/Google_Tests_run.dir/LinkedListTests.cpp.o	4e1d672c6b11de8d
+660	768	1725708722051224234	Google_tests/Google_Tests_run	a97a33a3ba7c8c04
