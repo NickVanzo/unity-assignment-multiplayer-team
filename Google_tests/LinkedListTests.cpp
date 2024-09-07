@@ -3,7 +3,7 @@
 #include<cstdlib>
 
 bool ListIsOrdered(List* l, bool printValues = false) {
-    if (l->GetHead() == nullptr) return false;
+    if (l->GetHead() == nullptr) return true;
     bool isOrdered = true;
     Node* tmp = l->GetHead();
     int previousValue = tmp->GetValue();
