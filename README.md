@@ -14,6 +14,7 @@ This is the function I was asked to implement for this assignment.
 
 You can find the implementation of both classes in the List_Lib folder. 
 To test the function I used a suite of tests using the Google_tests framework. They are small tests, I tried to keep them as readable as possible, as Robert Martin suggested in Clean Code: "What makes a clean test? Three things. Readability, readability, and readability. Read- ability is perhaps even more important in unit tests than it is in production code.".
+Plus, in every test I've used the build, operate, check pattern to give them a clear and a constant structure.
 To test the function I've tried to include many different scenarios, such as:
 - adding a value to an empty list
 - adding many values in ascending order
